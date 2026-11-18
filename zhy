@@ -1,0 +1,41 @@
+梅林9+9⁺_3792,#genre#
+
+
+#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456833" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",K 頻道
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456830" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/rainbow.png",彩虹頻道
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456839" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_pink.png",潘朵啦粉红台
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
+
+#EXTINF:-1 group-title="PRIVADO",惊艳台
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",松视1
+http://ctrl.yunshipin.bbroot.com:8080/streams/e5muhgtiwm/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",松视2
+http://ctrl.yunshipin.bbroot.com:8080/streams/5kiecachjvk/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",潘朵啦玩美台
+http://ctrl.yunshipin.bbroot.com:8080/streams/gn0v29wncgr/gc/playlist.m3u8
+
+#EXTINF:-1 group-title="PRIVADO",惊艳台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
