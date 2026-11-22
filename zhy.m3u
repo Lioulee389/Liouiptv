@@ -1,18 +1,4 @@
 梅林9+9⁺_3792,#genre#
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
-
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
-
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456833" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",K 頻道
-
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
-
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456830" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/rainbow.png",彩虹頻道
-
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456839" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_pink.png",潘朵啦粉红台
-
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
-
 #EXTINF:-1 group-title="PRIVADO",惊艳台
 http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
 #EXTINF:-1 group-title="PRIVADO",松视1
